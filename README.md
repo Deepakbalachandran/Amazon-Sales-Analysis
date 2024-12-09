@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Project
-![Banner Image]()
+![Banner Image](![amazon_india_wide_image-3](https://github.com/user-attachments/assets/d4207c45-484a-467b-bb59-add5b3920635)
  
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
