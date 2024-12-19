@@ -28,4 +28,4 @@ analysis techniques:
 
 3. Find out the top 5 customers who made the highest profits?
 
-![Returning customer query]()
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q3.jpg)
