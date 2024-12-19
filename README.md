@@ -10,10 +10,11 @@ information such as sales dates, customer details, product categories, and reven
 leveraging SQL queries and data analysis techniques, we aim to answer various questions and
 uncover valuable insights from the dataset.
 ## Dataset Overview
-The dataset used in this project consists of [insert number] rows of data, representing Amazon
+The dataset used in this project consists of 10000 rows of data, representing Amazon
 sales transactions. Along with the sales data, the dataset includes information about customers,
 products, orders, and returns. Before analysis, the dataset underwent preprocessing to handle
 missing values and ensure data quality.
 ## Analysis Questions Resolved
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
+
