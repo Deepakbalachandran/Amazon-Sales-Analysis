@@ -24,4 +24,4 @@ analysis techniques:
 
 2. Write a sql query to find the 2nd highest sales per state and show the product name and seller from where it is sold?
 
-![Returning customer query]()
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q5.jpg)
