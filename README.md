@@ -18,6 +18,6 @@ missing values and ensure data quality.
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
 
-1. Show the customer names,customer_ID,Product name,and total number of returns & also show the customer when the number of returns>2 as "High rx" and rest as "low rx"
+1. Show the customer names,customer_ID,Product name,and total number of returns & also show the customer when the number of returns>2 as "High rx" and rest as "Low rx"
    
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q1.jpg)
