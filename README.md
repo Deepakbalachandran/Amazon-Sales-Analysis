@@ -18,3 +18,5 @@ missing values and ensure data quality.
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
 
+1. Show the customer names,customer_ID,Product name,and total number of returns & also show the customer when the number of returs >2 as "High rx" and rest as "low rx"
+![Returning customer query]()
