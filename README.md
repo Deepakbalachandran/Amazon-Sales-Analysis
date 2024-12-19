@@ -32,4 +32,4 @@ analysis techniques:
 
 4. Write a query and return the the top 5 product names were the growth rate decreased by previous years by sales, show the product product_id,product name,years,growth_rate decreased?
 
-![Returning customer query]()
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q4.jpg)
