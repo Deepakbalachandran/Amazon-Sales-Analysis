@@ -21,3 +21,7 @@ analysis techniques:
 1. Show the customer names,customer_ID,Product name,and total number of returns & also show the customer when the number of returns>2 as "High rx" and rest as "Low rx"
    
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q1.jpg)
+
+2. Write a sql query to find the 2nd highest sales per state and show the product name and seller from where it is sold?
+
+![Returning customer query]()
