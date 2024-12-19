@@ -19,4 +19,4 @@ During the analysis, the following key questions were addressed using SQL querie
 analysis techniques:
 
 1. Show the customer names,customer_ID,Product name,and total number of returns & also show the customer when the number of returs >2 as "High rx" and rest as "low rx"
-![Returning customer query]()
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q1.jpg)
