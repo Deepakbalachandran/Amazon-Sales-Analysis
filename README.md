@@ -33,3 +33,7 @@ analysis techniques:
 4. Write a query and return the the top 5 product names were the growth rate decreased by previous years by sales, show the product product_id,product name,years,growth_rate decreased?
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q4.jpg)
+
+5. Identify the top 6 states with the highest total orders, where each state's total orders exceed the average order across all states. Return the state name and the total number of orders for each?
+
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q4.jpg)
