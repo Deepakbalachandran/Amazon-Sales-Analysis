@@ -41,3 +41,10 @@ analysis techniques:
 6. Create a store procedure to take the input order_id & Order_date from the user and display the order_id,customer_id,customer_name & order_date, and also provide the errror message if the order ID or date is wrong
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q7.jpg)
+
+
+## Entity-Relationship Diagram (ERD)
+
+![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/ERD.jpg)
+
+An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between the tables in the dataset. This diagram provides a clear understanding of the data structure and helps in identifying key entities and their attributes
