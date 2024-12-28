@@ -50,8 +50,7 @@ analysis techniques:
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between the tables in the dataset. This diagram provides a clear understanding of the data structure and helps in identifying key entities and their attributes
 
 ## Getting Started
-To replicate the analysis or explore the dataset further, follow these steps:
-
+To replicate the analysis or explore the dataset further, follow these steps
 1.Clone the repository to your local machine.
 2.Ensure you have a SQL environment set up to execute queries.
 3.Load the provided dataset into your SQL database.
