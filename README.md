@@ -22,23 +22,23 @@ analysis techniques:
    
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q1.jpg)
 
-2. Write a sql query to find the 2nd highest sales per state and show the product name and seller from where it is sold?
+3. Write a sql query to find the 2nd highest sales per state and show the product name and seller from where it is sold?
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q5.jpg)
 
-3. Find out the top 5 customers who made the highest profits?
+4. Find out the top 5 customers who made the highest profits?
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q3.jpg)
 
-4. Write a query and return the the top 5 product names were the growth rate decreased by previous years by sales, show the product product_id,product name,years,growth_rate decreased?
+5. Write a query and return the the top 5 product names were the growth rate decreased by previous years by sales, show the product product_id,product name,years,growth_rate decreased?
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q4.jpg)
 
-5. Identify the top 6 states with the highest total orders, where each state's total orders exceed the average order across all states. Return the state name and the total number of orders for each?
+6. Identify the top 6 states with the highest total orders, where each state's total orders exceed the average order across all states. Return the state name and the total number of orders for each?
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q6.jpg)
 
-6. Create a store procedure to take the input order_id & Order_date from the user and display the order_id,customer_id,customer_name & order_date, and also provide the errror message if the order ID or date is wrong
+7. Create a store procedure to take the input order_id & Order_date from the user and display the order_id,customer_id,customer_name & order_date, and also provide the errror message if the order ID or date is wrong
 
 ![Returning customer query](https://github.com/Deepakbalachandran/Amazon-Sales-Analysis/blob/main/Q7.jpg)
 
